@@ -1,0 +1,21 @@
+{
+  "name": "Masterani",
+  "short_name": "MA",
+  "theme_color": "#171717",
+  "background_color": "#171717",
+  "icons": [{
+    "src": "static/img/touch/icon.png",
+    "sizes": "128x128"
+  }, {
+    "src": "static/img/touch/apple-touch-icon.png",
+    "sizes": "180x180"
+  }, {
+    "src": "static/img/touch/ms-touch-icon-precomposed.png",
+    "sizes": "144x144"
+  }, {
+    "src": "static/img/touch/chrome-touch-icon.png",
+    "sizes": "192x192"
+  }],
+  "start_url": "/",
+  "display": "standalone"
+}

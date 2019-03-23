@@ -89,6 +89,7 @@ a {
     -ms-flex-direction: column;
     flex-direction: column;
     margin: 90px auto 50px;
+    padding: 0 2rem;
 }
 
 .notice > h1 {

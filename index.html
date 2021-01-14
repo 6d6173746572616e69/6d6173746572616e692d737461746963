@@ -63,6 +63,11 @@
         <div id="disqus_thread" style="margin-top: 3rem"></div>
         
         <script>
+            var disqus_config = function () {
+                this.page.url = "https://www.masterani.me/";
+                this.page.identifier = "HOME_PAGE";
+            };
+
             (function() {
                 var d = document, s = d.createElement('script');
                 s.src = 'https://masterani.disqus.com/embed.js';
